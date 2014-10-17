@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lil:home|Door43 (lil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lil|d43-lil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lil/archive/master.zip|d43-lil.zip]]
+
+**Recent Changes**
+{{changes>ns = lil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lil|Ethnologue data]]
+
